@@ -6,17 +6,8 @@
 
 <br>
 
-<!--p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
-
+<p align="center"> 
+	I am a third-year Information Technology undergraduate at Rajarata University of Sri Lanka, passionate about leveraging technology to solve real-world problems.
 </p>
 
 	
@@ -26,14 +17,14 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :school: I am a `Junior` at Faculty of Applied Sciences at [Rajarata University of Sri Lanka]([http://suez.edu.eg/ar/](https://www.bing.com/ck/a?!&&p=40731dea478d495b88cfe6e040eae12d5c6a180607c561cdfae29152c1b66722JmltdHM9MTc2MjkwNTYwMA&ptn=3&ver=2&hsh=4&fclid=1587dde0-f430-6edc-3c52-c84ef5526f30&psq=rusl&u=a1aHR0cHM6Ly93d3cucmp0LmFjLmxrLw)).
+- :trophy: AAT Finalist.
+- :technologist: I love using Technology as a solution for every `Problem`.
+- :about: I am a enthusioustic at AI/ML , Computer Vision , Web Development.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](file:///F:/NimashaSavindi.pdf).
+- :boom: You can visit [MY WEBSITE](file:///F:/my_web_portfolio/index.html).
 <br>
 
 
