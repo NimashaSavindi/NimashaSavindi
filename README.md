@@ -21,7 +21,7 @@
 - :trophy: AAT Finalist.
 - :technologist: I love using Technology as a solution for every `Problem`.
 - :about: I am a enthusioustic at AI/ML , Computer Vision , Web Development.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Computer Science` and `AI and Machine learning`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](file:///F:/NimashaSavindi.pdf).
 - :boom: You can visit [MY WEBSITE](file:///F:/my_web_portfolio/index.html).
