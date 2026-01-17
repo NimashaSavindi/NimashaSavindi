@@ -2,7 +2,7 @@
 <br>
 
 <p align="center"> 
-	I am an IT undergraduate at Rajarata University of Sri Lanka with a strong passion for Artificial Intelligence 🤖, Machine Learning 📊, and Software Engineering 💻. I am committed to continuous learning and enjoy working on projects that combine intelligent systems, data-driven solutions, and modern application development.
+I am an IT undergraduate at Rajarata University of Sri Lanka with a strong passion for Artificial Intelligence 🤖, Machine Learning 📊, and Software Engineering 💻. I am committed to continuous learning and enjoy working on projects that combine intelligent systems, data-driven solutions, and modern application development.
 
 I actively seek challenges that help me grow both technically and professionally 🚀, while building practical skills in programming, AI/ML model development, cloud platforms ☁️, and software design. My goal is to create impactful and innovative technology solutions through disciplined learning, hands-on experience, and ethical practices.
 </p>
