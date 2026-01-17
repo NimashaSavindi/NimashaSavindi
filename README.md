@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Nimasha Savindi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br>
 
-<p align="center"> 
+<p> 
 I am an IT undergraduate at Rajarata University of Sri Lanka with a strong passion for Artificial Intelligence 🤖, Machine Learning 📊, and Software Engineering 💻. I am committed to continuous learning and enjoy working on projects that combine intelligent systems, data-driven solutions, and modern application development.
 
 I actively seek challenges that help me grow both technically and professionally 🚀, while building practical skills in programming, AI/ML model development, cloud platforms ☁️, and software design. My goal is to create impactful and innovative technology solutions through disciplined learning, hands-on experience, and ethical practices.
